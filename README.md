@@ -1,5 +1,5 @@
-# INF1018-Software-Basico
-Work from lecture "Software Basico" at Pontifical Catholic University of Rio de Janeiro
+# INF1018-Basic-Software
+Work from lecture "inf1018-Software Basico"(Basic Software) at Pontifical Catholic University of Rio de Janeiro
 ### Work 1
     Converts files from utf 32 for utf 8 and vice versa.
 ### Work 2
